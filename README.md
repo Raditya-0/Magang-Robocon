@@ -1,6 +1,6 @@
 # Robot Cartesian 3 DOF - Inverse Kinematics
 
-## Deskripsi Proyek
+## Deskripsi Program
 
 Program ini mengimplementasikan algoritma **inverse kinematics** untuk robot **Cartesian 3 Degree of Freedom (DOF)** menggunakan bahasa pemrograman C++. Kode ini menggunakan konsep **Object-Oriented Programming (OOP)** dengan fitur seperti **Inheritance**, **Polymorphism**, **Encapsulation**, dan **Abstraction** untuk mengontrol posisi robot dan menghitung sudut yang dibutuhkan untuk mencapai posisi akhir yang diinginkan.
 
