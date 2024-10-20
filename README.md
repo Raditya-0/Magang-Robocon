@@ -1,5 +1,3 @@
-Berikut adalah contoh README yang bisa Anda gunakan untuk proyek GitHub Anda:
-
 ---
 
 # Robot Cartesian 3 DOF - Inverse Kinematics
