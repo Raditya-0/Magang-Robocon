@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729408714 source:c:\users\radit\documents\1. kuliah\3. ukm\internship robocon\tugas koding\tugas koding c++\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+

@@ -1,0 +1,6 @@
+Test Case Number: 1
+Posisi: X: 50, Y: 50, Z: 50
+Sudut: X: 45°, Y: 45°, Z: 45°
+Test Case Number: 1
+Posisi: X: 30, Y: 40, Z: 50
+Sudut: X: 38.6598°, Y: 30.9638°, Z: 53.1301°
