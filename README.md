@@ -1,5 +1,3 @@
----
-
 # Robot Cartesian 3 DOF - Inverse Kinematics
 
 ## Deskripsi Proyek
@@ -85,6 +83,3 @@ Data ditambahkan ke inverse_kinematic_result.txt
 2. **Polymorphism**: Metode virtual `inverseKinematics` dan `saveToFile` memungkinkan perilaku yang berbeda tergantung pada kelas yang memanggilnya.
 3. **Encapsulation**: Atribut posisi dan sudut di kelas `RobotCartesian3DOF` dibuat private dan hanya diakses melalui metode publik.
 4. **Abstraction**: Kelas `Robot` mendefinisikan metode abstrak tanpa detail implementasi, sementara kelas turunan mengimplementasikan detailnya.
-
-
----
